@@ -3,4 +3,4 @@ Une petite Demo
 Walabooookkk!!
 
 Une modif depuis GitHub Pullons pour voir!
-Une modif depuis ma machine locale, Pushons!
+Une modif depuis ma machine locale, Pushons! Une petit plus depuis GitHub
