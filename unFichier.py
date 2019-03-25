@@ -1,3 +1,3 @@
-def addition (x,y):
-	return x+y;
-
+def addition (x=2,y=9):
+	print (x+y);
+	return
